@@ -1,2 +1,2 @@
 # SoccerNet_Action_Anticipation
-Github repository containing the code used in the "Action Anticipation in Soccer Videos" paper
+The code will be available soon. Once I have properly cleaned and commented it.
